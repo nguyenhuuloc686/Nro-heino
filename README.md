@@ -1,5 +1,12 @@
 Đây là phiên bản đầu tiên có lỗi hay gì anh em cứ vào box trao đổi với mình❤️
 Link Box: https://zalo.me/g/nran3u1pi3hgm9mq5mpc
+Mã nguồn game:https://drive.google.com/file/d/1SWQYXWfEoOcKOVWki7SzcA_-ibDwWw-M/view?usp=drivesdk
+
+Sql:https://drive.google.com/file/d/1Qh6cevyZYJg5x7dGpF5jTvW0ZvhtSdMi/view?usp=drivesdk
+
+navicat:https://drive.google.com/file/d/1Qol_88hyiSJJitKKZVqib6Cdu3lXuUP2/view?usp=drivesdk
+
+termux:https://drive.google.com/file/d/1QrUrDNnrKbPdlAEcoigPhsbEIhm0nW50/view?usp=drivesdk
 
 # Hướng Dẫn Cài Đặt, Bổ Sung Patch Navicat & Sửa Lỗi Server Heino NRO Trên Termux
 
