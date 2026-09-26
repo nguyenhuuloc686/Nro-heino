@@ -5,15 +5,15 @@ Link Box: https://zalo.me/g/nran3u1pi3hgm9mq5mpc
 Mã nguồn 
 
 Source :
-```bash https://drive.usercontent.google.com/download?id=1kahsNgga4pH0gzFlMtAbvf45Np82Ex1I&export=download&authuser=0
-```
+ https://drive.usercontent.google.com/download?id=1kahsNgga4pH0gzFlMtAbvf45Np82Ex1I&export=download&authuser=0
+
 Website team : 
-```bash https://drive.google.com/file/d/1jU0u6xS0hmEUUbFmExdAfeKaEkS8ElLp/view?usp=drivesdk 
+ https://drive.google.com/file/d/1jU0u6xS0hmEUUbFmExdAfeKaEkS8ElLp/view?usp=drivesdk 
 ```
 panel website :
-```bash
+
 https://drive.google.com/file/d/1jSra9DF-fCLDTHhCAm7DWoMepiOTjSyW/view?usp=drivesdk
-```
+
 Tài liệu tổng hợp quy trình cài đặt, nâng cấp Web Panel quản lý Database và cách xử lý tất cả các lỗi thường gặp khi vận hành Server Heino Ngọc Rồng Online trên Android (Termux).
 
 ---
